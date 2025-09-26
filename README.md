@@ -25,6 +25,7 @@ Developed by: Keerthana C
 RegisterNumber: 212224220047
 */
 ```
+```
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
@@ -67,7 +68,7 @@ print(f"Accuracy: {accuracy:.3f}")
 cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:")
 print(cm)
-
+```
 ## Output:
 <img width="516" height="188" alt="image" src="https://github.com/user-attachments/assets/03e124d2-debd-47f0-a143-67b01a3d4d7d" />
 
