@@ -70,7 +70,10 @@ print("Confusion Matrix:")
 print(cm)
 ```
 ## Output:
+
+
 <img width="516" height="188" alt="image" src="https://github.com/user-attachments/assets/03e124d2-debd-47f0-a143-67b01a3d4d7d" />
+
 
 
 <img width="480" height="366" alt="image" src="https://github.com/user-attachments/assets/c6ddd53f-f7fb-44f5-b5eb-eba4277f07b9" />
